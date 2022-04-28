@@ -1,0 +1,13 @@
+.idea
+.venv
+__pycache__
+data.mp4
+output_giaothong.mp4
+sort.py
+test.py
+tracking_ct.py
+tracking_sort.py
+Tracking_opencv.py
+yolov5l.pt
+yolov5s.pt
+test.jpg
